@@ -47,7 +47,7 @@ class BasketBallPoints extends StatelessWidget {
                 minimumSize: Size(150, 50),
               ),
               onPressed: (){}, 
-              child: Text("Add 3 Point",style: TextStyle(color: Colors.black,fontSize: 20),
+              child: Text("Add 3 Point ",style: TextStyle(color: Colors.black,fontSize: 20),
               ),
               ),
               Spacer(flex: 12,),
