@@ -14,6 +14,7 @@ class BasketBallPoints extends StatelessWidget {
         appBar: AppBar(
           title: Text("Points Counter"),
           backgroundColor: Colors.orange,
+          
         ),
         body: Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
