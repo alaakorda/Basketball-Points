@@ -20,7 +20,7 @@ class BasketBallPoints extends StatelessWidget {
           children: [
             Text("Team A",style: TextStyle(fontSize: 32),),
              Text("0",style: TextStyle(fontSize: 170),),
-            Spacer(flex: 1,),
+            
              ElevatedButton(
               style: ElevatedButton.styleFrom(
                 primary: Colors.orange,
