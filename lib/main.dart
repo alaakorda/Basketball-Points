@@ -42,7 +42,7 @@ class BasketBallPoints extends StatelessWidget {
               child: Text("Add 2 Point",style: TextStyle(color: Colors.black,fontSize: 20),
               ),
               ),
-             // Spacer(flex: 1,),
+             Spacer(flex: 1,),
               ElevatedButton(
               style: ElevatedButton.styleFrom(
                 primary: Colors.orange,
