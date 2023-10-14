@@ -32,7 +32,7 @@ class BasketBallPoints extends StatelessWidget {
               child: Text("Add 1 Point",style: TextStyle(color: Colors.black,fontSize: 20),
               ),
               ),
-           //   Spacer(flex: 1,),
+              Spacer(flex: 1,),
               ElevatedButton(
               style: ElevatedButton.styleFrom(
                 primary: Colors.orange,
@@ -52,7 +52,7 @@ class BasketBallPoints extends StatelessWidget {
               child: Text("Add 3 Point",style: TextStyle(color: Colors.black,fontSize: 20),
               ),
               ),
-             // Spacer(flex: 13,),
+              Spacer(flex: 13,),
 
       ],
     ),
