@@ -15,7 +15,7 @@ class _BasketBallPointsState extends State<BasketBallPoints> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+    //  debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           title: Text("Points Counter"),
