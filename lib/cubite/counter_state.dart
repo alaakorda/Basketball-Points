@@ -1,4 +1,6 @@
-abstract class CounterState {}
+abstract class CounterState {
+
+}
 
 class CounterAState extends CounterState {}
 
